@@ -9,5 +9,4 @@ for (let i of arr) {
     }
 }
 console.log(arr)
-console.log(index)
-console.log(`Мяушка: ${result}`)
+console.log(`Признак однородности массива: ${result}`)
